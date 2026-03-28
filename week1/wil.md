@@ -100,7 +100,7 @@ REST API: HTTP의 장점을 최대한 활용하는 아키텍처 스타일
 Spring Boot 애플리케이션을 실행하고, 브라우저에 localhost:8080 을 입력했을 때 나오는 Whitelabel Error Page 스크린샷
 
 
-
+<img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/d348916c-fc99-492e-b6a8-b6551b3a1d50" />
 
 
 
